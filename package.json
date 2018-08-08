@@ -1,0 +1,16 @@
+{
+  "name": "material-syntax-beta",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Un diseño de sintaxis que usa la paleta de colores de Google",
+  "repository": "https://github.com/jgezziel/material-syntax-beta",
+  "keywords": [
+    "syntax",
+    "theme",
+    "material design"
+  ],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  }
+}
