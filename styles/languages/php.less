@@ -1,0 +1,22 @@
+.syntax--php {
+    &.syntax--keyword {
+      color: @pink;
+        &.syntax--operator {
+          color: @yellow;
+            &.syntax--assignment {
+              color: @orange;
+            }
+        }
+    }
+
+    &.syntax--meta {
+      color: @light-orange;
+        &.syntax--object {
+            color: @blue;
+        }
+
+        &.syntax--arguments {
+            color: @purple;
+        }
+    }
+}
